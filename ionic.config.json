@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "type": "ionic-angular",
+  "gulp": {
+    "enabled": false
+  }
+}
